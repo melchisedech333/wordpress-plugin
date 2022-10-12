@@ -22,7 +22,11 @@ function verbum_add_admin_menu ()
 function process_manager_viewer ()
 {
     ?>
-    Iesus Salvator s2
+    
+    Here is the HTML content of your plugin...
+
+    I Love Iesus Salvator s2
+
     <?php
 }
 
